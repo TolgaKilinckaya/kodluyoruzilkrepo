@@ -16,3 +16,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 tartışmak için bir konu açınız.
 ## License
 [MIT]()
+## Image
+![](2_TZeK0kyHTRHVv3gUi8BtQg.png)
